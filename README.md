@@ -46,6 +46,6 @@
 *   **Telegram:** [@yeganebirtane](https://t.me/yeganebirtane)
 *   **Email:** latikayegane@yandex.ru
 *   **Резюме-сайт:** [elenaphoenix.github.io/cv](https://elenaphoenix.github.io/cv/)
-*   **Телефон*:* +79163266925
+*   **Телефон:** +79163266925
 
 ⭐️ *Открыта к предложениям в сфере Analytics, Data Engineering и автоматизации бизнес-процессов.*
