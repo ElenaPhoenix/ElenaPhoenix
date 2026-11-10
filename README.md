@@ -25,7 +25,7 @@
 *   **Инструменты и автоматизация:** 
     `Git`, `Docker`, `n8n`, `BPMN`, `Jira`, `Confluence`, `Agile`.
 *   **AI и NLP:** 
-    `ChatGPT`, `DeepSeek`, `Perplexity`, `Notebook LM`, `GigaChat API`, `Sentence-Transformers (Cross-Encoder)`, `RapidFuzz`.
+    `ChatGPT`, `DeepSeek`, `Perplexity`, `Notebook LM`, `GigaChat API`.
 
 ---
 
