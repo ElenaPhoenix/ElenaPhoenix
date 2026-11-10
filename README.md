@@ -43,7 +43,7 @@
 ---
 
 ### Как со мной связаться:
-*   **Telegram:** [@yeganebirlane](https://t.me/yeganebirlane)
+*   **Telegram:** [@yeganebirtane](https://t.me/yeganebirtane)
 *   **Email:** latikayegane@yandex.ru
 *   **Резюме-сайт:** [elenaphoenix.github.io/cv](https://elenaphoenix.github.io/cv/)
 *   **Телефон*:* +79163266925
