@@ -57,7 +57,7 @@
 
 **Стек:** `HTML/CSS/JS`, `Confluence`, `Jira`, `Yandex DataLens`, `Yandex Metrika`, `Google Tag Manager`.
 
-#### 2. [HH Assistant: AI-пайплайн для поиска работы](https://github.com/ElenaPhoenix/hh-assistant) (Октябрь - Ноябрь 2026, завершен)
+#### 2. [HH Assistant: AI-пайплайн для поиска работы](https://github.com/ElenaPhoenix/hh-assistant) (Октябрь - Ноябрь 2026)
 *Data Engineer / Python Developer*
 
 *End-to-end ETL-решение для автоматизации поиска работы.*
