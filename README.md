@@ -22,7 +22,7 @@
 
 **Data Engineering & Code:** Python (Pandas, NumPy), SQL (PostgreSQL, ClickHouse), API, Docker, Git, JavaScript
 
-**Analytics & BI:** DataLens, Power BI, Google Data Studio, Excel (Power Query/Pivot), Google Sheets
+**Analytics & BI:** Yandex DataLens, Power BI, Google Data Studio, Excel (Power Query/Pivot), Google Sheets
 
 **Automation & Management:** n8n, BPMN, Jira, Confluence, Agile
 
@@ -38,7 +38,7 @@
 
 📋 [Data Alchemist Lab (Jira)](https://listenshareanalytics.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none&atlOrigin=eyJpIjoiMTY3Y2VhNDFjMGY2NDQ1ODg3YWNmMjI4MGE3ZWMyMDYiLCJwIjoiaiJ9)
 
-📊 [Resume Insights (DataLens)](https://datalens.ru/hckh8b6awmtc0?_no_controls=1)
+📊 [Resume Insights (Yandex DataLens)](https://datalens.ru/hckh8b6awmtc0?_no_controls=1)
 
 💻 [GitHub (Код)](https://github.com/ElenaPhoenix?tab=repositories)
 
