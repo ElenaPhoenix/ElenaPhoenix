@@ -6,8 +6,6 @@
 
 ### Контакты
 
-📍 Москва, Россия
-
 📞 +7(916) 326-69-25
 
 💬 [@yeganebirtane](https://t.me/yeganebirtane)
