@@ -8,11 +8,11 @@
 
 📞 +7(916) 326-69-25
 
-💬 [@yeganebirtane](https://t.me/yeganebirtane)
+[💬 @yeganebirtane](https://t.me/yeganebirtane)
 
-✉️ [latikayegane@yandex.ru](mailto:latikayegane@yandex.ru)
+[✉️ latikayegane@yandex.ru](mailto:latikayegane@yandex.ru)
 
-💼 [LinkedIn](https://www.linkedin.com/in/твой-профиль)
+[💼 LinkedIn](https://www.linkedin.com/in/твой-профиль)
 
 ---
 
@@ -30,15 +30,17 @@
 
 ### Ссылки на экосистему
 
-🌐 [Интерактивное CV](https://elenaphoenix.github.io/cv/)
+[🌐 Интерактивное CV](https://elenaphoenix.github.io/cv/)
 
-📚 [Data Alchemist Hub (База знаний)](https://listenshareanalytics.atlassian.net/wiki/spaces/bd/overview)
+[📚 Data Alchemist Hub](https://listenshareanalytics.atlassian.net/wiki/spaces/bd/overview) - база знаний
 
-📋 [Data Alchemist Lab (Jira)](https://listenshareanalytics.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none&atlOrigin=eyJpIjoiMTY3Y2VhNDFjMGY2NDQ1ODg3YWNmMjI4MGE3ZWMyMDYiLCJwIjoiaiJ9)
+[📋 Data Alchemist Lab](https://listenshareanalytics.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none&atlOrigin=eyJpIjoiMTY3Y2VhNDFjMGY2NDQ1ODg3YWNmMjI4MGE3ZWMyMDYiLCJwIjoiaiJ9) - проект в Jira
 
-📊 [Resume Insights (Yandex DataLens)](https://datalens.ru/hckh8b6awmtc0?_no_controls=1)
+[📊 Resume Insights](https://datalens.ru/hckh8b6awmtc0?_no_controls=1) - дашборд Yandex DataLens
 
-💻 [GitHub (Код)](https://github.com/ElenaPhoenix?tab=repositories)
+[📁 Google Drive](https://drive.google.com/drive/folders/1682pWZRqctI7lBejN3QwxGaZJj60jbpm?usp=sharing) - артефакты
+ 
+[🎓 Stepik](https://stepik.org/users/583419611/profile) - обучение и сертификаты
 
 ---
 
