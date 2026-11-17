@@ -1,22 +1,20 @@
-# Привет, я Елена! 👋
+# Hi, I'm Elena! 👋
 
-### Analyst | Data Engineer | Python Developer
+Analyst with experience in IT and FinTech. Background in operations management and foreign economic activity provides a systemic view of business processes. Specialized in automating routine reporting, building transparent ETL pipelines, and implementing AI tools to solve business problems.
 
-Аналитик данных с опытом в IT и FinTech. Пришла в аналитику из операционного управления и ВЭД, что дало системный взгляд на бизнес-процессы. Специализируюсь на автоматизации рутинной отчетности, построении прозрачных ETL-систем и внедрении AI-инструментов для решения бизнес-задач.
-
-### Контакты
+### Contact
 
 📞 +7(916) 326-69-25
 
-[💬 @yeganebirtane](https://t.me/yeganebirtane)
+💬 [@yeganebirtane](https://t.me/yeganebirtane)
 
-[✉️ latikayegane@yandex.ru](mailto:latikayegane@yandex.ru)
+✉️ [latikayegane@yandex.ru](mailto:latikayegane@yandex.ru)
 
-[💼 LinkedIn](https://www.linkedin.com/in/твой-профиль)
+💼 [LinkedIn](https://www.linkedin.com/in/listenshareanalytics/)
 
 ---
 
-### Навыки
+### Skills
 
 **Data Engineering & Code:** Python (Pandas, NumPy), SQL (PostgreSQL, ClickHouse), API, Docker, Git, JavaScript
 
@@ -26,42 +24,38 @@
 
 **AI & NLP:** ChatGPT, DeepSeek, Perplexity, GigaChat API, Notebook LM
 
----
-
-### Ссылки на экосистему
-
-[🌐 Интерактивное CV](https://elenaphoenix.github.io/cv/)
-
-[📚 Data Alchemist Hub](https://listenshareanalytics.atlassian.net/wiki/spaces/bd/overview) - база знаний
-
-[📋 Data Alchemist Lab](https://listenshareanalytics.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none&atlOrigin=eyJpIjoiMTY3Y2VhNDFjMGY2NDQ1ODg3YWNmMjI4MGE3ZWMyMDYiLCJwIjoiaiJ9) - проект в Jira
-
-[📊 Resume Insights](https://datalens.ru/hckh8b6awmtc0?_no_controls=1) - дашборд Yandex DataLens
-
-[📁 Google Drive](https://drive.google.com/drive/folders/1682pWZRqctI7lBejN3QwxGaZJj60jbpm?usp=sharing) - артефакты
- 
-[🎓 Stepik](https://stepik.org/users/583419611/profile) - обучение и сертификаты
+**Languages:** Russian (Native), English (C1), Turkish (C1).
 
 ---
 
-### Мои пет-проекты:
+### Portfolio
 
-#### 1. [Data Alchemist Ecosystem: единая цифровая экосистема для демонстрации навыков аналитика](https://elenaphoenix.github.io/cv/) (Август 2026 - наст. время)
-*Системный аналитик / Аналитик данных / BI-аналитик / Frontend-разработчик / Project Manager*
+📚 [Data Alchemist Hub (Knowledge Base)](https://listenshareanalytics.atlassian.net/wiki/spaces/bd/overview)
 
-**Задача:** Профессиональные артефакты (CV, GitHub, Confluence, Jira, Yandex DataLens, LinkedIn, Google Drive, Stepik) существовали разрозненно, что затрудняло демонстрацию комплексных навыков аналитика и системного подхода. Нужно спроектировать и реализовать единую цифровую экосистему для презентации компетенций.
+---
 
-**Решение:** Data Alchemist Ecosystem: единая цифровая экосистема для демонстрации навыков аналитика
+### Pet Projects
 
-**Стек:** `Figma`, `HTML`, `CSS`, `Confluence`, `Jira`, `Yandex DataLens`, `Yandex Metrika`.
+#### 1. [Data Alchemist Ecosystem: : Unified Digital Ecosystem for Analyst Skills Demonstration](https://elenaphoenix.github.io/cv/) | Aug 2026 - Present
+*System Analyst / Data Analyst / BI Analyst / Frontend Developer / Project Manager*
 
-#### 2. [HH Assistant: AI-пайплайн для поиска работы](https://github.com/ElenaPhoenix/hh-assistant) (Октябрь - Ноябрь 2026)
-*Data Engineer / Python Developer / Системный аналитик / AI Engineer*
+**Challenge**
+Professional artifacts (CV, GitHub, Confluence, Jira, Yandex DataLens, LinkedIn, Google Drive, Stepik) were fragmented, making it difficult to demonstrate comprehensive analyst and systemic skills. Needed to design and implement a unified digital ecosystem to showcase competencies.
 
-**Задача:** Был ручной перебор тысяч нерелевантных вакансий и потеря времени на написание шаблонных сопроводительных писем. Нужно автоматизировать ETL-процесс поиска, скоринга вакансий и отправки откликов.
+**Solution**
+Redesigned the CV template. Set up end-to-end analytics (Yandex Metrica) with data output to a Yandex DataLens dashboard. Populated GitHub and LinkedIn profiles in a consistent style. Designed the ecosystem architecture and described business logic. Planned development stages and managed the backlog in Jira. Built a knowledge base in Confluence, wrote all documentation and case studies. Integrated all tools into a single pipeline.
 
-**Решение:** Разработала ETL-пайплайн на Python. Настроила сбор данных через API hh.ru, разработала логику "умного фильтра" (расстояние Левенштейна, приоритет слов-исключений) для отсева нерелевантных вакансий, реализовала генерацию уникальных писем через GigaChat API. Реализовала fallback на шаблон при малом остатке токенов. Настроила пост-обработку текста через pymorphy3 (морфология).Спроектировала нормализованную ER-модель базы данных (4 таблицы с внешними ключами). хранение истории откликов в PostgreSQL. Использовала ThreadPoolExecutor для многопоточности, contextmanager для работы с БД, модульную архитектуру (SRP). Покрыла код 107 тестами. Реализовала полную изоляцию файловой системы, чтобы тесты не ломали реальные данные. Организовала логирование, атомарную запись файлов, обработку сетевых сбоев и лимитов API.
+**Stack**
+`Figma`, `HTML`, `CSS`, `JavaScript`, `Confluence`, `Jira`, `Yandex DataLens`, `Yandex Metrika`.
 
-**Стек:** `Python`, `PostgreSQL`, `GigaChat API`, `Docker`, `pytest`, `ThreadPoolExecutor`.
+#### 2. [HH Assistant: AI-Pipeline for Job Search](https://github.com/ElenaPhoenix/hh-assistant) | Oct 2026 - Nov 2026 (2 months)
+*Data Engineer / AI Engineer / System Analyst / Python Developer*
 
-⭐️ *Открыта к предложениям в сфере Analytics, Data Engineering и автоматизации бизнес-процессов.*
+**Challenge**
+Manual screening of thousands of irrelevant job postings and time wasted on writing templated cover letters. Needed to automate the ETL process of searching, scoring vacancies, and submitting applications.
+
+**Solution**
+Developed an ETL pipeline in Python. Configured data collection via hh.ru API. Implemented a smart filter logic (Levenshtein distance, exclusion word priority) to screen out irrelevant vacancies. Implemented unique letter generation via GigaChat API with a fallback to template when token balance is low. Configured text post-processing via pymorphy3 (morphology). Designed a normalized ER database model (4 tables with foreign keys). Stored application history in PostgreSQL. Used ThreadPoolExecutor for multithreading, contextmanager for DB operations, and modular architecture (SRP). Covered the code with 107 tests. Implemented full file system isolation to prevent tests from corrupting real data. Organized logging, atomic file writes, and handling of network failures and API limits.
+
+**Stack**
+`Python`, `PostgreSQL`, `GigaChat API`, `Docker`, `pytest`, `ThreadPoolExecutor`.
