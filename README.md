@@ -16,15 +16,25 @@ Analyst with experience in IT and FinTech. Background in operations management a
 
 ### Skills
 
-**Data Engineering & Code:** Python (Pandas, NumPy), SQL (PostgreSQL, ClickHouse), API, Docker, Git, JavaScript
+**Data Engineering & Code** 
 
-**Analytics & BI:** Yandex DataLens, Power BI, Google Data Studio, Excel (Power Query/Pivot), Google Sheets
+Python (Pandas, NumPy), SQL (PostgreSQL, ClickHouse), API, Docker, Git, JavaScript
 
-**Automation & Management:** n8n, BPMN, Jira, Confluence, Agile
+**Analytics & BI** 
 
-**AI & NLP:** ChatGPT, DeepSeek, Perplexity, GigaChat API, Notebook LM
+Yandex DataLens, Power BI, Google Data Studio, Excel (Power Query/Pivot), Google Sheets
 
-**Languages:** Russian (Native), English (C1), Turkish (C1).
+**Automation & Management** 
+
+n8n, BPMN, Jira, Confluence, Agile
+
+**AI & NLP** 
+
+ChatGPT, DeepSeek, Perplexity, GigaChat API, Notebook LM
+
+**Languages** 
+
+Russian (Native), English (C1), Turkish (C1).
 
 ---
 
