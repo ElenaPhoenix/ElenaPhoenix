@@ -3,7 +3,7 @@
 Analyst with experience in IT and FinTech. Background in operations management and foreign economic activity provides a systemic view of business processes. Specialized in automating routine reporting, building transparent ETL pipelines, and implementing AI tools to solve business problems.
 
 ### Contact
-opportunities🚀
+
 📞 +7(916) 326-69-25
 
 💬 [@yeganebirtane](https://t.me/yeganebirtane)
