@@ -4,7 +4,7 @@ Analyst with experience in IT and FinTech. Background in operations management a
 
 ### Contact
 
-📞 +7(916) 326-69-25
+📞 +7 (916) 326-69-25
 
 💬 [@yeganebirtane](https://t.me/yeganebirtane)
 
