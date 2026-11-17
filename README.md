@@ -16,24 +16,19 @@ Analyst with experience in IT and FinTech. Background in operations management a
 
 ### Skills
 
-**Data Engineering & Code** 
-
+#### **Data Engineering & Code** 
 Python (Pandas, NumPy), SQL (PostgreSQL, ClickHouse), API, Docker, Git, JavaScript
 
-**Analytics & BI** 
-
+#### **Analytics & BI** 
 Yandex DataLens, Power BI, Google Data Studio, Excel (Power Query/Pivot), Google Sheets
 
-**Automation & Management** 
-
+#### **Automation & Management** 
 n8n, BPMN, Jira, Confluence, Agile
 
-**AI & NLP** 
-
+#### **AI & NLP** 
 ChatGPT, DeepSeek, Perplexity, GigaChat API, Notebook LM
 
-**Languages** 
-
+#### **Languages** 
 Russian (Native), English (C1), Turkish (C1).
 
 ---
@@ -46,7 +41,7 @@ Russian (Native), English (C1), Turkish (C1).
 
 ### Pet Projects
 
-#### 1. [Data Alchemist Ecosystem: : Unified Digital Ecosystem for Analyst Skills Demonstration](https://elenaphoenix.github.io/cv/) | Aug 2026 - Present
+#### 1. [Data Alchemist Ecosystem: Unified Digital Ecosystem for Analyst Skills Demonstration](https://elenaphoenix.github.io/cv/) | Aug 2026 - Present
 *System Analyst / Data Analyst / BI Analyst / Frontend Developer / Project Manager*
 
 **Challenge**
